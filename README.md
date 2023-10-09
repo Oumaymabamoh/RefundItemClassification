@@ -63,4 +63,4 @@ docker build -t my-app
 ### Security
 - Ensure proper authentication and authorization mechanisms are in place to secure your API. Consider using API keys, tokens, or other authentication methods.
 
-### Happy coding!
+Happy coding!
