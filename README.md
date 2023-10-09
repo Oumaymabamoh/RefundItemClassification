@@ -31,11 +31,13 @@ This is a simple API for classifying images using a pre-trained deep learning mo
 
 ### Installation
 1. Clone the repository:
-   ```bash
+
+```bash
 git clone https://github.com/Oumaymabamoh/RefundItemClassification.git
 ```
 3. Install the required Python packages:
-    ```bash
+
+``` bash 
 pip install -r requirements.txt
 ```
 
