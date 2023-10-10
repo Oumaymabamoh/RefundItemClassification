@@ -5,6 +5,7 @@ import os
 
 app = Flask(__name__)
 
+
 # Load your trained model and compile it
 model = tf.keras.models.load_model('ric_model.h5')
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
